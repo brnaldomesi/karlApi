@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+vendor
+composer.lock
+storage/app/*
+storage/assets/*
+storage/data/*
+storage/framework/views/*
+storage/logs/*

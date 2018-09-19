@@ -1,0 +1,4 @@
+stripe_customers/stripe_customer_id : cus_CUf5dJZDsuosh8
+companies/stripe_acct_id : acct_19eZlIHyxWhse8cq
+company_pay_methods/account : sk_test_AuBMEel1NVuaZgII4EZ90pjw
+company_pay_methods/secret : acct_19eZlIHyxWhse8cq
