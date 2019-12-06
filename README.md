@@ -10,8 +10,6 @@ For more information, see http://www.karl.limo
 
 ## About API
 
-This project is private property of KARL, which is technical support by Inov.tech, 
-see http://www.inov.tech
 
 This project is:
 - Language: PHP;
@@ -21,4 +19,4 @@ This project is:
 
 ## Contact
 
-CTO of Inov.tech: heroalur@qq.com
+brnaldomesi1@gmail.com
